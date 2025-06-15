@@ -1,3 +1,4 @@
+package personal_assignment_1;
 import java.util.Scanner;
 
 
